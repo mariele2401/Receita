@@ -1,5 +1,5 @@
 body{
-background-color: rgb(233, 216, 194);
+background-color: rgb(247, 224, 195);
 }
 
 img {
@@ -12,10 +12,10 @@ img {
 
 h1{
   font-family: Arial, Helvetica, sans-serif;
-  color: #4a4d53;
+  color: #000000;
 }
 
 h2{
   font-family: Arial, Helvetica, sans-serif;
-  color: #081742;
+  color: #000000;
 }
