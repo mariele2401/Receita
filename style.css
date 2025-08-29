@@ -3,9 +3,8 @@ body {
 }
 
 img {
-  width: 190px;
+  width: auto;
   height: auto;
- 
 object-fit: cover;
   display: inline-block;
 }
